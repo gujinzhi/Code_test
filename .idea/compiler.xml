@@ -6,11 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Code_test" />
+        <module name="kmp" />
+        <module name="nums" />
+        <module name="test_string" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Code_test" target="1.5" />
+      <module name="kmp" target="1.5" />
+      <module name="nums" target="1.5" />
+      <module name="test_string" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

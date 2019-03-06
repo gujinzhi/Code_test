@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Code_test.iml" filepath="$PROJECT_DIR$/Code_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/kmp/kmp.iml" filepath="$PROJECT_DIR$/kmp/kmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nums/nums.iml" filepath="$PROJECT_DIR$/nums/nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_string/test_string.iml" filepath="$PROJECT_DIR$/test_string/test_string.iml" />
     </modules>
   </component>
 </project>
